@@ -1,0 +1,33 @@
+.web-header{
+    background-image: url(../images/Group\ 68.png);
+    width: 100%;
+    height: 324px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    display: flex;
+}
+.header-div{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 95px;
+    max-width: 1323px;
+    width: 100%;
+    /* height: 20px; */
+    display: flex;
+    
+}
+
+.ul-li{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.Logo-header{
+
+}
+.navigation-list{
+    /* margin-right: 49px; */
+}
